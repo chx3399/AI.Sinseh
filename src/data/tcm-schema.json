@@ -1,0 +1,58 @@
+{
+  "constitutions": {
+    "Neutral": {
+      "primary_dietary_needs": ["Balanced diet", "Grains", "Vegetables", "Moderate meat"],
+      "avoid": ["Excessive greasy food", "Excessive spicy food", "Overeating"],
+      "exercise_intensity": 7,
+      "exercise_types": ["Jogging", "Swimming", "Cycling", "Strength training"]
+    },
+    "Qi Deficiency": {
+      "primary_dietary_needs": ["Warming foods", "Qi-tonifying", "Chicken", "Yam", "Red Dates", "Ginseng"],
+      "avoid": ["Raw salads", "Cold drinks", "Watermelon", "Excessive sweating"],
+      "exercise_intensity": 3,
+      "exercise_types": ["Tai Chi", "Qi Gong", "Gentle Yoga", "Brisk walking"]
+    },
+    "Yang Deficiency": {
+      "primary_dietary_needs": ["Warming foods", "Mutton", "Ginger", "Garlic", "Walnuts"],
+      "avoid": ["Cold foods", "Iced drinks", "Raw vegetables", "Crab", "Watermelon"],
+      "exercise_intensity": 4,
+      "exercise_types": ["Brisk walking", "Tai Chi", "Light jogging in the sun"]
+    },
+    "Yin Deficiency": {
+      "primary_dietary_needs": ["Cooling foods", "Moistening foods", "Pork", "Duck", "Lily bulb", "Tremella mushroom"],
+      "avoid": ["Spicy foods", "Fried foods", "Lamb", "Onion", "Garlic", "Alcohol"],
+      "exercise_intensity": 5,
+      "exercise_types": ["Swimming", "Yoga", "Pilates", "Avoid heavy sweating"]
+    },
+    "Phlegm-Dampness": {
+      "primary_dietary_needs": ["Damp-resolving foods", "Barley", "Winter melon", "Radish", "Seaweed"],
+      "avoid": ["Sweets", "Fatty meats", "Dairy products", "Cold drinks"],
+      "exercise_intensity": 8,
+      "exercise_types": ["High-intensity interval training (HIIT)", "Running", "Aerobics", "Ball games"]
+    },
+    "Dampness-Heat": {
+      "primary_dietary_needs": ["Cooling foods", "Damp-resolving", "Green beans", "Lotus root", "Cucumber", "Watermelon"],
+      "avoid": ["Spicy foods", "Deep-fried foods", "Alcohol", "Durian", "Mango", "Mutton"],
+      "exercise_intensity": 6,
+      "exercise_types": ["Swimming", "Brisk walking", "Cycling", "Avoid exercising in high heat"]
+    },
+    "Blood Stasis": {
+      "primary_dietary_needs": ["Blood-invigorating foods", "Black fungus", "Hawthorn", "Rose tea", "Brown sugar"],
+      "avoid": ["Cold foods", "Fatty foods", "Excessive salt", "Astringent foods"],
+      "exercise_intensity": 6,
+      "exercise_types": ["Tai Chi", "Dancing", "Brisk walking", "Meridian stretching"]
+    },
+    "Qi Stagnation": {
+      "primary_dietary_needs": ["Qi-regulating foods", "Radish", "Citrus fruits", "Rose tea", "Onion"],
+      "avoid": ["Astringent foods", "Strong tea", "Coffee", "Overeating"],
+      "exercise_intensity": 7,
+      "exercise_types": ["Jogging", "Mountaineering", "Swimming", "Active sports to release stress"]
+    },
+    "Special Diathesis": {
+      "primary_dietary_needs": ["Mild, neutral foods", "Lean meat", "Fresh vegetables", "Honey"],
+      "avoid": ["Allergens", "Spicy foods", "Seafood", "Alcohol", "Strong tea"],
+      "exercise_intensity": 4,
+      "exercise_types": ["Tai Chi", "Brisk walking", "Gentle stretching"]
+    }
+  }
+}
