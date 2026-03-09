@@ -1,5 +1,5 @@
 {
-  "name": "TCM-Health",
-  "description": "A mobile health application that integrates the Constitution in Chinese Medicine Questionnaire (CCMQ) with predictive analytics and AI-driven diagnostics.",
-  "requestFramePermissions": []
+  "name": "TCM-Vital",
+  "description": "Clinical-Grade Constitution & NCD Prediction App based on TCM principles.",
+  "requestFramePermissions": ["camera"]
 }
